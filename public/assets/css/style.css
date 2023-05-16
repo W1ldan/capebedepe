@@ -1,0 +1,24 @@
+@import url('https://fonts.google.com/specimen/Roboto?preview.size=64&preview.layout=row');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.nav-link{
+    color: #000;
+}
+.nav-link:hover{
+    color: #F8B400;
+}
+.food{
+    display: flex;
+    
+}
+.menu{
+    padding-bottom: 3px;
+    padding-inline-end: 5px;
+}
+
